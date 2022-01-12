@@ -1,2 +1,2 @@
 # port-scanner-
-what are ports open on IP ?
+what ports are open on IP ?
